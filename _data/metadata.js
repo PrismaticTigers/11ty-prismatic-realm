@@ -1,11 +1,11 @@
 module.exports = {
-	"title": "Eleventy Base Blog v8",
+	"title": "Prismatic-Realm",
 	"url": "https://example.com/",
 	"language": "en",
-	"description": "I am writing about my experiences as a naval navel-gazer.",
+	"description": "A blog documenting the journey of a young, enthusiastic web developer and artist.",
 	"author": {
-		"name": "Your Name Here",
-		"email": "youremailaddress@example.com",
+		"name": "Kelly",
+		"email": "prismatictigers@gmail.com",
 		"url": "https://example.com/about-me/"
 	}
 }
